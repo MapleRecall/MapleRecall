@@ -1,4 +1,4 @@
-## 🐕 🎵Layz dog, lazy dog, lazy all the day🎶 🐶
+## 🐕 🎵Lazy dog, lazy dog, lazy all the day🎶 🐶
 
 <kbd>![](https://github-readme-stats.vercel.app/api?username=maplerecall&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&card_width=478)</kbd>
 
